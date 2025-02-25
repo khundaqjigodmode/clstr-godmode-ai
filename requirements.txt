@@ -7,6 +7,5 @@ openai
 soundfile
 aiofiles
 starlette
-jwt
+pyjwt
 nest_asyncio
-tiiuae-falcon-7b
