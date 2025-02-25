@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+torch
+transformers
+whisper
+openai
+soundfile
+aiofiles
+starlette
+jwt
+nest_asyncio
+tiiuae-falcon-7b
